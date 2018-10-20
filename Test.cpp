@@ -1,0 +1,4 @@
+voud testfunc()
+{
+	print();
+}
